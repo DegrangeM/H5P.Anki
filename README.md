@@ -11,6 +11,7 @@ You choose a content type among a list of supported content type and it diplay a
 - Multiple choice ⭐⭐
 - Single choice set ⭐⭐
 - True / false ⭐
+- Anki (just offer to download)
 
 ## Two possibility
 
